@@ -1,3 +1,11 @@
+---
+layout: post
+title: Git Related
+category: Acquaintances
+---
+
+
+
 ## Git相关
 
 ### .gitignore
