@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Git Related
-category: Acquaintances
 ---
 
 
